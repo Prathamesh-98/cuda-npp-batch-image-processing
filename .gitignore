@@ -1,0 +1,4 @@
+*.o
+*.exe
+boxFilterNPP
+.DS_Store

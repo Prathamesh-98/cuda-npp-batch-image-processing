@@ -1,0 +1,280 @@
+Processing dataset/image_01.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_01.pgm> successfully!
+Saved image: outputs/image_01_blur.pgm
+Processing dataset/image_02.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_02.pgm> successfully!
+Saved image: outputs/image_02_blur.pgm
+Processing dataset/image_03.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_03.pgm> successfully!
+Saved image: outputs/image_03_blur.pgm
+Processing dataset/image_04.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_04.pgm> successfully!
+Saved image: outputs/image_04_blur.pgm
+Processing dataset/image_05.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_05.pgm> successfully!
+Saved image: outputs/image_05_blur.pgm
+Processing dataset/image_06.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_06.pgm> successfully!
+Saved image: outputs/image_06_blur.pgm
+Processing dataset/image_07.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_07.pgm> successfully!
+Saved image: outputs/image_07_blur.pgm
+Processing dataset/image_08.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_08.pgm> successfully!
+Saved image: outputs/image_08_blur.pgm
+Processing dataset/image_09.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_09.pgm> successfully!
+Saved image: outputs/image_09_blur.pgm
+Processing dataset/image_10.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_10.pgm> successfully!
+Saved image: outputs/image_10_blur.pgm
+Processing dataset/image_11.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_11.pgm> successfully!
+Saved image: outputs/image_11_blur.pgm
+Processing dataset/image_12.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_12.pgm> successfully!
+Saved image: outputs/image_12_blur.pgm
+Processing dataset/image_13.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_13.pgm> successfully!
+Saved image: outputs/image_13_blur.pgm
+Processing dataset/image_14.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_14.pgm> successfully!
+Saved image: outputs/image_14_blur.pgm
+Processing dataset/image_15.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_15.pgm> successfully!
+Saved image: outputs/image_15_blur.pgm
+Processing dataset/image_16.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_16.pgm> successfully!
+Saved image: outputs/image_16_blur.pgm
+Processing dataset/image_17.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_17.pgm> successfully!
+Saved image: outputs/image_17_blur.pgm
+Processing dataset/image_18.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_18.pgm> successfully!
+Saved image: outputs/image_18_blur.pgm
+Processing dataset/image_19.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_19.pgm> successfully!
+Saved image: outputs/image_19_blur.pgm
+Processing dataset/image_20.pgm
+./boxFilterNPP Starting...
+
+MapSMtoCores for SM 8.9 is undefined.  Default to use 128 Cores/SM
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+GPU Device 0: "Ampere" with compute capability 8.9
+
+NPP Library Version 11.3.3
+  CUDA Driver  Version: 12.6
+  CUDA Runtime Version: 11.3
+MapSMtoArchName for SM 8.9 is undefined.  Default to use Ampere
+  Device 0: <          Ampere >, Compute SM 8.9 detected
+boxFilterNPP opened: <dataset/image_20.pgm> successfully!
+Saved image: outputs/image_20_blur.pgm

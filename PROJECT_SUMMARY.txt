@@ -1,0 +1,19 @@
+Project: CUDA Batch Image Processing with NPP
+
+Description:
+This project uses NVIDIA CUDA NPP to apply a GPU-accelerated
+box filter to grayscale images.
+
+Dataset:
+20 generated grayscale images based on the provided Lena sample.
+
+Processing:
+Each image is processed using nppiFilterBoxBorder_8u_C1R
+with a 5x5 filter mask and replicated border handling.
+
+Output:
+20 filtered images saved in the outputs directory.
+
+GPU:
+NVIDIA GPU, as reported by nvidia-smi.
+
